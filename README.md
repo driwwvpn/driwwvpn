@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am from ....<br><br>- ⚡ Indonesia, Cianjur-West Java.<br>- ⚡ I just want to have fun.<br>- ⚡ In free time only.</p>
+<p align="left">I am from ....<br><br>- 📍 Indonesia, Cianjur-West Java.<br>- ⚡ I just want to have fun.<br>- ⚡ In free time only.</p>
 
 ###
 
